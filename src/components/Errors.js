@@ -125,7 +125,6 @@ class Errors extends Component {
                     </ul>
                 </div>
             </div>
-
         );
     }
 }
